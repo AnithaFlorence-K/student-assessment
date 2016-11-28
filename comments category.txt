@@ -1,0 +1,11 @@
+category_cd	category_desc
+110	Statistician II
+102	Software Engineer I
+108	General Manager
+103	Accounting Assistant I
+104	Pharmacist
+101	Pharmacist
+110	Civil Engineer
+110	Project Manager
+101	Help Desk Technician
+101	Physical Therapy Assistant

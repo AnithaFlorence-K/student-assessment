@@ -1,0 +1,11 @@
+achieve_typ_cd	achieve_typ_desc
+10	Mauris ullamcorper purus sit amet nulla.
+6	Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla.
+7	In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.
+2	Suspendisse potenti. Nullam porttitor lacus at turpis.
+10	Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+9	Suspendisse ornare consequat lectus.
+5	In est risus, auctor sed, tristique in, tempus sit amet, sem.
+3	Etiam faucibus cursus urna. Ut tellus.
+2	Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+1	Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.
